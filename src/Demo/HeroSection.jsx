@@ -6,7 +6,7 @@ import Discover from './Discover';
 import Browsebycategory from './Browsebycategory';
 import ReasonsToChoose from './ReasonsToChoose';
 import Testimonials from './Testimonials';
-import MeetOurTeachers from './MeetOurTeachers';
+import MeetOurTeachers from './Meetourteachers';
 import Certified from './Certified'
 import Ourblogs from './Ourblogs';
 import Footer from './Footer';
